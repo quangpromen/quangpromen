@@ -17,7 +17,7 @@
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
   
 ##
-<img alt="GIF" src="https://github.com/phuuthanh2003/phuuthanh2003/blob/main/ChillMario.gif"/>
+<img alt="GIF" src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif"/>
 
 
 
@@ -54,11 +54,11 @@
 </summary>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api/top-langs/?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="phuuthanh2003-langs"/>
-  <img height="170em" src="https://github-readme-stats-vercel-phuuthanh2003s-projects.vercel.app/api?username=phuuthanh2003&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="phuuthanh2003-stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpromen&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="phuuthanh2003-langs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=quangpromen&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="phuuthanh2003-stats"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phuuthanh2003&theme=tokyonight&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangpromen&theme=radical&hide_border=true"/>
 </div>
 <br/>
 </details>
