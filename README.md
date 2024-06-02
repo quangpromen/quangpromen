@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+Ph%C3%B9ng+H%E1%BB%AFu+Th%C3%A0nh" alt="Title"/><br/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&size=35&duration=1&pause=999999&color=BF91F3&random=false&width=500&height=50&lines=Hi%2C+my+fullname+is+L%C3%AA+Nh%E1%BA%ADt+Quang" alt="Title"/><br/>
 </div>
 
 ##
