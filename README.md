@@ -11,7 +11,7 @@
 ##
 
 - 🔭 I’m currently third-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **Software Engineering**
-- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/phuuthanh2003?tab=repositories)
+- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/quangpromen?tab=repositories)
 - 😅 I'm a newbie in coding 🐧
 
 - ⚡ Fun fact **I love watching movies, studying new technologies, English, eating food, and traveling**
