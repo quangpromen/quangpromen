@@ -9,13 +9,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Passionate+about+Backend+Development;Building+Scalable+Microservices!;Always+Learning+New+Tech!">
 </p>
-<p align="center">
-  <!-- Mario Pixel Art embedded via direct GIF link -->
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif"
-       alt="Chill Mario Animation"
-       width="250"
-       height="250" />
-</p>
+<img src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" width="200" />
 
 
 
