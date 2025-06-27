@@ -9,7 +9,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Passionate+about+Backend+Development;Building+Scalable+Microservices!;Always+Learning+New+Tech!">
 </p>
-<img src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" width="200" />
+
+<p align="center">
+  <img src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" style="width: 100vw; height: 100vh; object-fit: cover;">
+</p>
 
 
 
