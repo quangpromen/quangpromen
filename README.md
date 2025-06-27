@@ -11,8 +11,12 @@
 </p>
 <p align="center">
   <!-- Mario Pixel Art embedded via direct GIF link -->
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif" alt="Chill Mario Animation" width="250" height="250" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif"
+       alt="Chill Mario Animation"
+       width="250"
+       height="250" />
 </p>
+
 
 
 
