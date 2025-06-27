@@ -11,10 +11,9 @@
 </p>
 <p align="center">
   <!-- Mario Pixel Art linked to DeviantArt -->
-  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" target="_blank" rel="noopener">
-    <img src="./assets/mario-pixel-art.png" alt="Chill Mario 2023 ver." width="250" height="250" />
-  </a>
+  [![Chill Mario 2023 ver.](https://images.alphacoders.com/105/1050408.png)](https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885)
 </p>
+
 
 
 ---
