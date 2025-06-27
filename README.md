@@ -9,6 +9,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Passionate+about+Backend+Development;Building+Scalable+Microservices!;Always+Learning+New+Tech!">
 </p>
+<p align="center">
+  <!-- Mario Pixel Art linked to DeviantArt -->
+  <a href="https://www.deviantart.com/pixeljeff/art/Chill-Mario-2023-ver-953012885" target="_blank" rel="noopener">
+    <img src="./assets/mario-pixel-art.png" alt="Chill Mario 2023 ver." width="250" height="250" />
+  </a>
+</p>
+
 
 ---
 
