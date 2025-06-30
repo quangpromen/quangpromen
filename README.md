@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" style="width: 100vw; height: 100vh; object-fit: cover;">
+  <img src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" style="width: 80vw; height: 80vh; object-fit: cover;">
 </p>
 
 
