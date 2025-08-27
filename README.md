@@ -12,10 +12,6 @@
 </p>
 
 
-
-
-
-
 <p align="center">
   <img 
     src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" 
