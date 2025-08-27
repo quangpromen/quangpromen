@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Quang! 👋</h1>
 
 <p align="center">
-  <b>🚀 Backend Developer</b> &nbsp;|&nbsp; <b>📱 Android App Builder</b> &nbsp;|&nbsp; <b>🧪 Software Tester</b>
+  <b>🚀Backend Developer</b> &nbsp;|&nbsp; <b>📱 Android App Builder</b> &nbsp;|&nbsp; <b>🧪Software Tester</b>
 </p>
 
 <p align="center">
