@@ -29,11 +29,7 @@
     <img alt="stars" src="https://img.shields.io/github/stars/quangpromen?style=for-the-badge">
   </a>
 
-  
-  <a href="https://visitcount.itsvg.in/api?id=quangpromen">
-    <img alt="profile views" src="https://visitcount.itsvg.in/api?id=quangpromen&icon=0&color=0&style=for-the-badge">
-  </a>
-</p>
+
 
 ---
 
