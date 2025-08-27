@@ -6,10 +6,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Scalable+%26+High-Performance+Backends;Clean+Architecture+%7C+Microservices;Always+Learning+New+Tech!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=550&lines=Backend+Developer+%7C+Android+Enthusiast+%7C+Tester;Designing+Scalable+%26+Reliable+Systems;Clean+Architecture+%7C+Microservices;Exploring+Cloud+%26+DevOps;Forever+Learning+%26+Improving!"
     alt="typing banner"
   />
 </p>
+
 
 <p align="center">
   <img 
