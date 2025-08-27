@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  🚀 Backend Developer | 💻 .NET & Cloud Enthusiast | 🛠️ DevOps Curious
+  🚀 Backend Developer | 📱 Android App Builder | 🧪 Software Tester  
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Passionate+about+Backend+Development;Building+Scalable+Microservices!;Always+Learning+New+Tech!">
