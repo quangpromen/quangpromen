@@ -6,7 +6,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&multiline=true&width=900&lines=🚀+Backend+Developer;📱+Android+Enthusiast;🧪+Software+Tester;☁️+Cloud+%26+DevOps+Learner"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&multiline=true&width=600&lines=🚀+Backend+Developer;📱+Android+Enthusiast;🧪+Software+Tester;☁️+Cloud+%26+DevOps+Learner"
     alt="typing banner"
   />
 </p>
