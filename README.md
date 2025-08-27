@@ -109,12 +109,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpromen&layout=compact&theme=dark&hide_border=false" alt="top langs"/>
 </p>
 
----
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quangpromen&theme=radical&no-frame=false&no-bg=false&margin-w=10" alt="trophies"/>
-</p>
 
 ---
 
