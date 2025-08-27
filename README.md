@@ -1,94 +1,132 @@
-<h1 align="center">
-  Hi there, I'm Quang! 👋
-</h1>
+<h1 align="center">Hi there, I'm Quang! 👋</h1>
 
 <p align="center">
-  🚀 Backend Developer | 📱 Android App Builder | 🧪 Software Tester  
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=435&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Passionate+about+Backend+Development;Building+Scalable+Microservices!;Always+Learning+New+Tech!">
+  <b>🚀 Backend Developer</b> &nbsp;|&nbsp; <b>📱 Android App Builder</b> &nbsp;|&nbsp; <b>🧪 Software Tester</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" style="width: 80vw; height: 80vh; object-fit: cover;">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=520&lines=.NET+%7C+C%23+%7C+Cloud+%7C+DevOps;Scalable+%26+High-Performance+Backends;Clean+Architecture+%7C+Microservices;Always+Learning+New+Tech!"
+    alt="typing banner"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" 
+    alt="fun banner" 
+    style="max-width: 900px; width: 100%; height: auto; border-radius: 12px;"
+  />
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/quangpromen?tab=followers">
+    <img alt="followers" src="https://img.shields.io/github/followers/quangpromen?style=for-the-badge">
+  </a>
+  <a href="https://github.com/quangpromen">
+    <img alt="stars" src="https://img.shields.io/github/stars/quangpromen?style=for-the-badge">
+  </a>
+  <a href="https://visitcount.itsvg.in/api?id=quangpromen">
+    <img alt="profile views" src="https://visitcount.itsvg.in/api?id=quangpromen&icon=0&color=0&style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 🌐 Connect with me:
+## 🧭 About Me
+- 🔭 Currently building **scalable .NET microservices** with clean architecture & CQRS.
+- 🧪 Strong interest in **testability, performance, and reliability**.
+- ☁️ Learning **Cloud & DevOps** (containers, CI/CD, k8s).
+- 🎮 Chill time: **League of Legends & Valorant**.
+
+---
+
+## 🌐 Connect
 <p align="center">
   <a href="https://www.facebook.com/leuan123/?locale=vi_VN">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
   </a>
   <a href="https://github.com/quangpromen">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
+  <!-- Optional:
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a> -->
 </p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🏗 Programming Languages
+### 🧑‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,java,ts,js" />
+  <img src="https://skillicons.dev/icons?i=cs,java,cpp,ts,js" alt="langs" />
 </p>
 
-### 🏗 Backend Development
+### 🏗 Backend & Databases
 <p align="center">
- <img src="https://skillicons.dev/icons?i=dotnet,azure,postgres,mysql,redis,rabbitmq,docker" />
-  <br>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=dotnet,redis,rabbitmq,postgres,mysql,docker,azure" alt="backend" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
 </p>
 
-### 🏗 DevOps & Cloud
+### ☁️ DevOps & Infra
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,azure" alt="devops" />
 </p>
 
-### 📜 Other Tools
+### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quangpromen&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quangpromen&theme=dark&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpromen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,androidstudio" alt="tools" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Featured Projects
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=quangpromen&theme=radical&no-frame=false&no-bg=false&margin-w=10">
+  <!-- Replace / add repos as needed -->
+  <a href="https://github.com/quangpromen/ChatWithBotAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangpromen&repo=ChatWithBotAI&theme=radical" alt="ChatWithBotAI"/>
+  </a>
+  <!-- Example placeholder: Uncomment if you have this repo
+  <a href="https://github.com/quangpromen/MoneyMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangpromen&repo=MoneyMind&theme=radical" alt="MoneyMind"/>
+  </a>
+  -->
 </p>
 
 ---
 
-## 🎯 Fun Facts
-- 🔭 I’m currently working on **scalable .NET microservices**.
-- 🎯 Passionate about **high-performance backend systems**.
-- 💡 Fun fact: I love **cloud computing & distributed systems**.
-- 🎮 Favorite game: **League of Legends & Valorant**.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quangpromen&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="stats"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=quangpromen&theme=dark&hide_border=false" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpromen&layout=compact&theme=dark&hide_border=false" alt="top langs"/>
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=quangpromen&theme=radical&no-frame=false&no-bg=false&margin-w=10" alt="trophies"/>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangpromen&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangpromen&theme=react-dark&hide_border=true" alt="activity graph"/>
 </p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=quangpromen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+✅ Tips (optional, keep as comments):
+- Thay repo ở "Featured Projects" bằng dự án bạn muốn show nhất.
+- Nếu ảnh GIF lớn quá, giữ max-width:100% và bỏ height cố định để tránh vỡ layout mobile.
+- Có thể đổi theme (radical/dark/transparent) cho đồng bộ.
+- Nếu muốn song ngữ, thêm block tóm tắt tiếng Việt ở "About Me".
+-->
