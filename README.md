@@ -57,12 +57,7 @@
 
 ---
 
-## 🛠 Tech Stack
 
-### 🧑‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,cpp,ts,js" alt="langs" />
-</p>
 
 ### 🏗 Backend & Databases
 <p align="center">
