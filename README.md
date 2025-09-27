@@ -57,27 +57,6 @@
 
 ---
 
-
-
-### 🏗 Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,redis,rabbitmq,postgres,mysql,docker,azure" alt="backend" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-</p>
-
-### ☁️ DevOps & Infra
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,azure" alt="devops" />
-</p>
-
-### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,androidstudio" alt="tools" />
-</p>
-
----
-
 ## 🔥 Featured Projects
 <p align="center">
   <!-- Replace / add repos as needed -->
