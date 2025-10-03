@@ -29,16 +29,6 @@
     <img alt="stars" src="https://img.shields.io/github/stars/quangpromen?style=for-the-badge">
   </a>
 
-
-
----
-
-## 🧭 About Me
-- 🔭 Currently building **scalable .NET microservices** with clean architecture & CQRS.
-- 🧪 Strong interest in **testability, performance, and reliability**.
-- ☁️ Learning **Cloud & DevOps** (containers, CI/CD, k8s).
-- 🎮 Chill time: **League of Legends & Valorant**.
-
 ---
 
 ## 🌐 Connect
