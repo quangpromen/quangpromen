@@ -1,84 +1,62 @@
-<h1 align="center">Hi there, I'm Quang! 👋</h1>
+# Hi there, I'm Quang! 👋
 
-<p align="center">
-  <b>🚀Backend Developer</b> &nbsp;|&nbsp; <b>📱 Android App Builder</b> &nbsp;|&nbsp; <b>🧪Software Tester</b>
-</p>
+**Backend Developer** | **Android App Enthusiast** | **Software Tester**
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=950&lines=🚀+Backend+Developer+|+📱+Android+Enthusiast+|+🧪+Software+Tester+|+☁️+Cloud+Learner"
-    alt="typing banner"
-  />
-</p>
+I'm a Software Engineering graduate with a strong interest in backend development, web applications, Android development, and software quality assurance.
 
+I enjoy building practical software solutions, working with APIs and databases, and exploring how AI tools can improve the development workflow.
 
-<p align="center">
-  <img 
-    src="https://github.com/quangpromen/quangpromen/blob/main/mario.gif" 
-    alt="fun banner" 
-    style="max-width: 900px; width: 100%; height: auto; border-radius: 12px;"
-  />
-</p>
+---
 
-<p align="center">
-  <a href="https://github.com/quangpromen?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/quangpromen?style=for-the-badge">
-  </a>
-  
-  <a href="https://github.com/quangpromen">
-    <img alt="stars" src="https://img.shields.io/github/stars/quangpromen?style=for-the-badge">
-  </a>
+## 👨‍💻 About Me
+
+- 🎓 Graduated in **Software Engineering** from **FPT University**.
+- 💻 Interested in **Backend Development**, especially **C# / ASP.NET Core**.
+- 🌐 Experienced with modern web technologies such as **React**, **Next.js**, and **TypeScript**.
+- 🧪 Familiar with **Manual Testing**, writing **Test Cases**, and reporting bugs.
+- 🚀 Exploring **AI integrations**, **deployment**, and **software automation**.
+
+---
+
+## 🛠️ Tech Stack
+
+| Area | Technologies & Skills |
+| --- | --- |
+| **Languages** | C#, JavaScript, TypeScript, SQL |
+| **Backend** | ASP.NET Core, REST APIs |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Database** | Relational databases, SQL |
+| **DevOps & Tools** | Git, GitHub, Docker, Vercel, basic CI/CD |
+| **Testing** | Manual Testing, Test Cases, Bug Reporting, Regression Testing, basic API Testing |
+| **AI Integration** | Gemini API, AI-assisted development |
+
+---
+
+## 🚀 Featured Project
+
+### 🌱 [Agri Marketplace](https://github.com/quangpromen/agri-marketplace)
+
+An agriculture marketplace project focused on building a practical digital platform for agricultural products.
+
+**[View repository →](https://github.com/quangpromen/agri-marketplace)**
+
+---
+
+## 🌱 Currently Exploring
+
+- Backend architecture, clean APIs, and database design.
+- Web application deployment and basic CI/CD workflows.
+- Android application development.
+- Software testing and quality assurance practices.
+- AI-assisted coding and third-party API integration.
 
 ---
 
 ## 🌐 Connect
-<p align="center">
-  <a href="https://www.facebook.com/leuan123/?locale=vi_VN">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
-  </a>
-  <a href="https://github.com/quangpromen">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  </a>
-  <!-- Optional:
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a> -->
-</p>
+
+- **GitHub:** [github.com/quangpromen](https://github.com/quangpromen)
+- **Facebook:** [facebook.com/leuan123](https://www.facebook.com/leuan123/?locale=vi_VN)
 
 ---
 
-## 🔥 Featured Projects
-<p align="center">
-  <!-- Replace / add repos as needed -->
-  <a href="https://github.com/quangpromen/ChatWithBotAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangpromen&repo=ChatWithBotAI&theme=radical" alt="ChatWithBotAI"/>
-  </a>
-  <!-- Example placeholder: Uncomment if you have this repo
-  <a href="https://github.com/quangpromen/MoneyMind">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=quangpromen&repo=MoneyMind&theme=radical" alt="MoneyMind"/>
-  </a>
-  -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangpromen&layout=compact&theme=dark&hide_border=false" alt="top langs"/>
-</p>
-
-
-
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=quangpromen&theme=react-dark&hide_border=true" alt="activity graph"/>
-</p>
-
-<!--
-✅ Tips (optional, keep as comments):
-- Thay repo ở "Featured Projects" bằng dự án bạn muốn show nhất.
-- Nếu ảnh GIF lớn quá, giữ max-width:100% và bỏ height cố định để tránh vỡ layout mobile.
-- Có thể đổi theme (radical/dark/transparent) cho đồng bộ.
-- Nếu muốn song ngữ, thêm block tóm tắt tiếng Việt ở "About Me".
--->
+*Thanks for visiting my profile!*
